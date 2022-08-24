@@ -10,4 +10,4 @@ Programming in general has become one of my greatest passions over the past few 
 
 I am currently a final year undergraduate industrial engineering student at Stellenbosch University, where I have the opportunity to design and implement a minimal viable product (MVP) for a computer vision enriched search engine. This search engine also entails a novel approach to scene segmentation and is applied to sport analysis for the improvement thereof.
 
-More projects and ideas are to come to this repositry!
+More projects and ideas are to come to this repository!
