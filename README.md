@@ -6,7 +6,7 @@ I have come to view quality code as a spectacle worthy to be called art. The rea
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Programming in general has become one of my greatest passions over the past few years. My specific interests at the moment include a learning expidition into the field of machine learning as well as teaching other people the fundamentals of programming where I specifically place emphasis on the usecases, definitons, and importance of functions.
+Programming in general has become one of my greatest passions over the past few years. My specific interests at the moment include a learning expidition into the field of machine learning as well as teaching other people the fundamentals of programming.
 
 I am currently a final year undergraduate industrial engineering student at Stellenbosch University, where I have the opportunity to design and implement a minimal viable product (MVP) for a computer vision enriched search engine. This search engine also entails a novel approach to scene segmentation and is applied to sport analysis for the improvement thereof.
 
